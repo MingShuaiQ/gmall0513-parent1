@@ -23,10 +23,10 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 日志发送工具类
+ */
 public class LogUploader {
-
-
-
 
     public static void sendLogStream(String log){
         try{

@@ -9,6 +9,9 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Random;
 
+/**
+ * 日志生成类
+ */
 public class JsonMocker {
 
     int startupNum=100000;
