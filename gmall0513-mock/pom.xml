@@ -11,9 +11,7 @@
 
     <artifactId>gmall0513-mock</artifactId>
     <packaging>pom</packaging>
-    <modules>
-        <module>gmall-realtime</module>
-    </modules>
+
 
     <dependencies>
         <dependency>
